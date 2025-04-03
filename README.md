@@ -30,7 +30,7 @@ AJAX para la comunicación en tiempo real
 
 Clona este repositorio:
 
-git clone https://github.com/TU_USUARIO/php-chat-app.git
+git clone https://github.com/Katherinju/php-chat-app.git
 
 Configura tu entorno local con un servidor como XAMPP o WAMP.
 
@@ -44,7 +44,10 @@ Inicia el servidor y accede al chat desde tu navegador.
 
 📸 Capturas de Pantalla
 
-Agrega aquí imágenes de la interfaz de usuario.
+![image](https://github.com/user-attachments/assets/9da48e3a-6ed1-4a82-9bf6-c5621332e8ef)
+
+
+![image](https://github.com/user-attachments/assets/f8c7703b-0fd3-48bf-8238-5d7059d029b6)
 
 📜 Licencia
 
