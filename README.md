@@ -1,10 +1,10 @@
 PHP Chat App
 
-📌 Descripción
+📌 **Descripción**
 
 Este es un sistema de chat en tiempo real desarrollado con PHP, MySQL, JavaScript y AJAX. Permite a los usuarios registrarse, iniciar sesión y comunicarse en un entorno seguro y dinámico.
 
-🚀 Características
+🚀 **Características**
 
 Registro e inicio de sesión de usuarios.
 
@@ -26,7 +26,7 @@ Base de datos: MySQL
 
 AJAX para la comunicación en tiempo real
 
-📥 Instalación
+📥 **Instalación**
 
 Clona este repositorio:
 
@@ -42,14 +42,14 @@ $conn = new mysqli('localhost', 'TU_USUARIO', 'TU_PASSWORD', 'chat_app_db');
 
 Inicia el servidor y accede al chat desde tu navegador.
 
-📸 Capturas de Pantalla
+📸 **Capturas de Pantalla**
 
 ![image](https://github.com/user-attachments/assets/9da48e3a-6ed1-4a82-9bf6-c5621332e8ef)
 
 
 ![image](https://github.com/user-attachments/assets/f8c7703b-0fd3-48bf-8238-5d7059d029b6)
 
-📜 Licencia
+📜 **Licencia**
 
 Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo libremente.
 
